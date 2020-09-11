@@ -4,8 +4,8 @@
 - I'm a Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - Working as a Principal Engineer at Liniment Pharma Private Limited (<a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a>).
 - Exploring new technologies and developing solutions on the web.
-- Learning more about Systems Design, Machine Learning and Artificial Intelligence.
-- Writing blogs, creating videos and sharing knowledge on my personal blog <a target="_blank" href="https://www.yokutalks.com">yokutalks.com</a>
+- Learning more about System Design, Machine Learning and Artificial Intelligence.
+- Writing blogs, creating videos and sharing knowledge on my personal blog <a target="_blank" href="https://www.yokutalks.com">yokutalks.com</a>.
 
 <b>Tech Stack:</b><br/>
 - Python | JavaScript | HTML | CSS
