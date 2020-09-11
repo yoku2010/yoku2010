@@ -1,7 +1,7 @@
 ### Hi there, I'm Yogesh Kumar! 👋
 
 <b>About Me:</b><br/>
-- I'm a full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+- I'm a Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - Working as a Principal Engineer at Liniment Pharma Private Limited (<a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a>).
 - Exploring new technologies and developing solutions on the web.
 - Learning more about Systems Design, Machine Learning and Artificial Intelligence.
