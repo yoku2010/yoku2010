@@ -1,12 +1,9 @@
-### Hi there, welcome to my Github! 👋
-
-<h2> I'm Yogesh Kumar</h2>
-<p><em>Principal Engineer at <a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a></em></p>
+### Hi there, I'm Yogesh Kumar! 👋
 
 <b>About Me:</b><br/>
 - I'm a full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+- Working as a Principal Engineer at Liniment Pharma Private Limited (<a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a>).
 - Exploring new technologies and developing solutions on web.
-- Working as a Principal Engineer at Liniment Pharma Private Limited (MED Delivery).
 - Learning more about Systems Design, Machine Learning and Artificial Intelligence.
 - Writing blogs, creating videos and sharing knowledge on my personal blog <a target="_blank" href="https://www.yokutalks.com">yokutalks.com</a>
 
