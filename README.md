@@ -25,6 +25,8 @@
 
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true)](https://github.com/yoku2010)
 
+[![Yogesh's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoku2010&layout=compact)](https://github.com/yoku2010)
+
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-india-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=yoku2010.github.profile)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yoku2010.yoku2010)
