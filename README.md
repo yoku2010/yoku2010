@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/yoku_2010/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Instagram"></a>
 </p>
 
-[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true)](https://github.com/yoku2010)
+[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true&count_private=true)](https://github.com/yoku2010)
 
 [![Yogesh's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoku2010&layout=compact)](https://github.com/yoku2010)
 
