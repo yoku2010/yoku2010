@@ -1,5 +1,10 @@
 ### Hi there, I'm Yogesh Kumar! 👋
 
+<p>
+  <img alt="visitors" title="Visit my Profile" src="https://api.visitorbadge.io/api/VisitorHit?user=yoku2010&repo=github-visitors-badge&countColor=%232DD4BF" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/yoku2010?color=F59E0B&style=for-the-badge&logo=github&label=Follow" />
+</p>
+
 <b>About Me:</b><br/>
 - I'm a Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - Working as a Principal Engineer at Liniment Pharma Private Limited (<a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a>).
@@ -26,7 +31,3 @@
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true&count_private=true)](https://github.com/yoku2010)
 
 [![Yogesh's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoku2010&layout=compact)](https://github.com/yoku2010)
-
-![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
-![living](https://img.shields.io/badge/living-india-3c9)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yoku2010.yoku2010)
