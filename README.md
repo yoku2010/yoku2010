@@ -1,22 +1,24 @@
-### Hi there, I'm Yogesh Kumar! 👋
+## Hi there, I'm Yogesh Kumar! 👋
 
 <p>
   <img alt="visitors" title="Visit my Profile" src="https://api.visitorbadge.io/api/VisitorHit?user=yoku2010&repo=github-visitors-badge&countColor=%232DD4BF" />
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/yoku2010?color=F59E0B&style=for-the-badge&logo=github&label=Follow" />
 </p>
 
-<b>About Me:</b><br/>
-- I'm a Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- Working as a Principal Engineer at Liniment Pharma Private Limited (<a target="_blank" href="https://www.linkedin.com/company/meddelivery/">MED Delivery</a>).
-- Exploring new technologies and developing solutions on the web.
-- Learning more about System Design, Machine Learning and Artificial Intelligence.
-- Writing blogs, creating videos and sharing knowledge on my personal blog <a target="_blank" href="https://www.yokutalks.com">yokutalks.com</a>.
+#### 💻 Full Stack Developer | Open-Source Enthusiast
 
-<b>Tech Stack:</b><br/>
-- Python | JavaScript | HTML | CSS
-- Angular | Bootstrap | Django | Node.js | TensorFlow.js
-- MySQL | MongoDB
-- Git | Webpack
+### About Me
+- Software Engineer at NovusPlatform.io
+- Passionate about open-source, building tech that empowers people, and fostering community
+- **Highly skilled in JavaScript and TypeScript** with deep expertise in modern web development 
+- Experienced in **System Design, Machine Learning, and AI** (Created RAG and AI Agents)
+- Exploring new technologies and working on an open-source project (coming soon!)
+
+### Tech Stack
+- JavaScript | TypeScript | Python
+- Next.js | React.js | Django | FastAPI | Node.js
+- PostgreSQL | MySQL | MongoDB
+- Git | Vite
 
 <p><b>Find me around the web:</b></p>
 <p>
@@ -31,3 +33,5 @@
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true&count_private=true)](https://github.com/yoku2010)
 
 [![Yogesh's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoku2010&layout=compact)](https://github.com/yoku2010)
+
+📫 **Let's connect!** Always open to discussions, collaborations, and sharing knowledge.
