@@ -5,7 +5,7 @@
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/yoku2010?color=F59E0B&style=for-the-badge&logo=github&label=Follow" />
 </p>
 
-#### 💻 Full Stack Developer | Open-Source Enthusiast
+#### 💻 Full Stack | Principal Engineer | Open-Source Enthusiast
 
 ### About Me
 - Software Engineer at NovusPlatform.io
