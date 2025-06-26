@@ -5,10 +5,10 @@
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/yoku2010?color=F59E0B&style=for-the-badge&logo=github&label=Follow" />
 </p>
 
-#### 💻 Full Stack | Principal Engineer | Open-Source Enthusiast
+#### 💻 Principal Engineer | Full Stack | Open-Source Enthusiast
 
 ### About Me
-- Software Engineer at NovusPlatform.io
+- Principal Software Engineer at NovusPlatform.io
 - Passionate about open-source, building tech that empowers people, and fostering community
 - **Highly skilled in JavaScript and TypeScript** with deep expertise in modern web development 
 - Experienced in **System Design, Machine Learning, and AI** (Created RAG and AI Agents)
@@ -17,8 +17,10 @@
 ### Tech Stack
 - JavaScript | TypeScript | Python
 - Next.js | React.js | Django | FastAPI | Node.js
-- PostgreSQL | MySQL | MongoDB
-- Git | Vite
+- PostgreSQL | MySQL | MongoDB | SQLite
+- Docker | Jenkins | Kafka | Zookeeper
+- Git | Vite | Vitest | MSW | Storybook
+
 
 <p><b>Find me around the web:</b></p>
 <p>
@@ -26,9 +28,12 @@
 <a href="https://stackoverflow.com/users/707869/yoku2010?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 <a href="mailto:yoku2010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://medium.com/@yoku2010" target="_blank"><img src="https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
-<a href="https://www.facebook.com/yoku2010/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Facebook"></a>
+<a href="https://dev.to/yoku2010" target="_blank"><img src="https://img.shields.io/badge/-dev.to-black?logo=dev.to&logoColor=white" alt="DEV"></a>
+
+<!-- <a href="https://www.facebook.com/yoku2010/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/yoku_2010/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Instagram"></a>
 </p>
+ -->
 
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true&count_private=true)](https://github.com/yoku2010)
 
