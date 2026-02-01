@@ -35,8 +35,13 @@
 </p>
  -->
 
-[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yoku2010&show_icons=true&count_private=true)](https://github.com/yoku2010)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoku2010&theme=github)
 
-[![Yogesh's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoku2010&layout=compact)](https://github.com/yoku2010)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoku2010&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoku2010&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoku2010&theme=github)
+
 
 📫 **Let's connect!** Always open to discussions, collaborations, and sharing knowledge.
